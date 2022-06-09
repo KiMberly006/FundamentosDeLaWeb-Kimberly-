@@ -59,5 +59,4 @@ Para proporcionar un hipervínculo a la URL definida en el atributo href
 <body> tiene dos hijos: <h1> y <p>"
 <h1> , <p> , <head> y <body>  son hermanos.
 
-
-<!--  -->
+.
